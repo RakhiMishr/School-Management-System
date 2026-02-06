@@ -1,5 +1,4 @@
 # School-Management-System
-# School Management System
 
 This is a beginner-friendly **School Management System** project.
 यह project school se related basic information manage karne ke liye banaya gaya hai.
